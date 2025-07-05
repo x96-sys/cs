@@ -1,3 +1,6 @@
 [submodule "rust"]
 	path = rust
 	url = git@github.com:x96-sys/cs-rust.git
+[submodule "zig"]
+	path = zig
+	url = git@github.com:x96-sys/cs-zig.git
